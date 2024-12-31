@@ -12,12 +12,12 @@ This project is a medical image identification system built using PyTorch and a 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/medical-image-identification.git
+    git clone https://github.com/Task2-Yolo-Ai_Detector/medical-image-identification.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd medical-image-identification
+    cd AI Detector
     ```
 
 3. Install the dependencies:
