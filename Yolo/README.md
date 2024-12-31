@@ -1,4 +1,4 @@
-# Task2-Yolo-Ai_Detector
+# Task2-YOLO-based football player tracking
 # YOLO-based Football Player Tracker
 
 ## Overview
