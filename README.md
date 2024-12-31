@@ -18,4 +18,4 @@ A Python application that uses YOLO object detection to track football players i
 1. Clone this repository:
    ```bash
    git clone https://github.com/MohamedSayed-2005/Task2-YOLO-based-football-player-tracking.git
-   cd FootballPlayerTracker
+   cd Task2-YOLO-based-football-player-tracking
